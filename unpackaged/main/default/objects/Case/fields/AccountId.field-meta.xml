@@ -3,6 +3,6 @@
     <fullName>AccountId</fullName>
     <trackFeedHistory>true</trackFeedHistory>
     <trackHistory>false</trackHistory>
-    <trackTrending>false</trackTrending>
+    <trackTrending>true</trackTrending>
     <type>Lookup</type>
 </CustomField>
