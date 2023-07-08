@@ -16,11 +16,11 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>EmailUtils</apexClass>
+        <apexClass>Names</apexClass>
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>Names</apexClass>
+        <apexClass>EmailUtils</apexClass>
         <enabled>true</enabled>
     </classAccesses>
     <applicationVisibilities>
